@@ -1,6 +1,6 @@
 # Starfield
 
-automatically installs some essential mods to improve the starfield experience
+automatically installs some essential mods to improve the starfield experience. (only works with xbox app version, steam version will be asap)
 
 mods list:
 
